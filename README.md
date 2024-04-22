@@ -39,14 +39,12 @@
 </a>
 
 
-<a href="mailto:info@ndering.ru" target="_blank" rel="noopener">
-    <img width="34" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">info@ndering.ru
-</a> 
-<a href="https://t.me/ndering" target="_blank" rel="noopener">
-    <img width="34" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" alt="Telegram Nadezhda Dering">https://t.me/ndering
+<a href="https://t.me/ndering">
+  <img alt="Goto Telegram" src="https://img.shields.io/static/v1?label&message=@ndering&color=0A66C2&style=for-the-badge&logo=telegram" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=@ndering&color=0A66C2&style=for-the-badge&logo=telegram" style="max-width: 100%;">
+   
 </a> 
 
-<a href="https://www.linkedin.com/in/" target="_blank" rel="noopener">
-    <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
-</a> 
+<a href="https://linkedin.com/in/" rel="nofollow">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" style="max-width: 100%;">
+</a>
 
