@@ -7,7 +7,7 @@
 
 <h3 >I'm Nadezhda Dering, BI-Developer</h3>
  
- <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media1.tenor.com/m/f_VdO1UBKiEAAAAd/simons-cat-cat-day.gif)" align="right" width="39%" height="35%">
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="39%" height="35%">
 
 - 👩  Pronouns: She/Her
 - 🔭 I’m currently working on increasing my skillset.
@@ -31,32 +31,16 @@
 </p>
 <p align="center"> 
    <br><br>
-    
-
-  
-
-
- <!--p align="center">
-<img src="./rainbow-superthin.gif">
-
-[//]: # (refer this link for github status:https://github.com/anuraghazra/github-readme-stats )
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<!--img src="https://github-readme-stats.vercel.app/api?username=megha-vishwakarma&show_icons=true&theme=tokyonight" alt="github stats" width="48%" align="left" margin-top="140px"/>
-  
-</a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-vishwakarma&theme=tokyonight" width="48%" >
-<p-->
    
  
    <!--Connect -->
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
 
 <a href="mailto:info@ndering.ru" target="_blank" rel="noopener">
-    <img width="34" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">
+    <img width="34" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">info@ndeging.ru
 </a> 
 <a href="[https://t.me/ndering](https://t.me/ndering)" target="_blank" rel="noopener">
-    <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Telegram Nadezhda Dering">
+    <img width="34" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" alt="Telegram Nadezhda Dering">
 </a> 
 
 <a href="https://www.linkedin.com/in//" target="_blank" rel="noopener">
