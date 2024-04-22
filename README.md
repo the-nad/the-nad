@@ -7,7 +7,7 @@
 
 <h3 >I'm Nadezhda Dering, BI-Developer</h3>
  
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="39%" height="35%">
+ <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media1.tenor.com/m/f_VdO1UBKiEAAAAd/simons-cat-cat-day.gif)" align="right" width="39%" height="35%">
 
 - 👩  Pronouns: She/Her
 - 🔭 I’m currently working on increasing my skillset.
