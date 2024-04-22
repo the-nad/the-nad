@@ -17,8 +17,6 @@
 
 <img src="./rainbow-superthin.gif">
 
-<h3  align="left">Skills-based tech  Platform</h3>
-<a href="https://www.hackerrank.com/vishwakarmamegh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="megha-vishwakarma" height="50" width="50" /></a>
 
 <h3 align="left">Languages</h3>
 <p align="center" style="padding: 20px">
