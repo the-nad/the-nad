@@ -37,13 +37,13 @@
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
 
 <a href="mailto:info@ndering.ru" target="_blank" rel="noopener">
-    <img width="34" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">info@ndeging.ru
+    <img width="34" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">info@ndering.ru
 </a> 
-<a href="[https://t.me/ndering](https://t.me/ndering)" target="_blank" rel="noopener">
-    <img width="34" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" alt="Telegram Nadezhda Dering">
+<a href="https://t.me/ndering" target="_blank" rel="noopener">
+    <img width="34" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" alt="Telegram Nadezhda Dering">https://t.me/ndering
 </a> 
 
-<a href="https://www.linkedin.com/in//" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/" target="_blank" rel="noopener">
     <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
 </a> 
 
