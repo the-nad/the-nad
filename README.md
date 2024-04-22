@@ -33,18 +33,13 @@
  
    <!--Connect -->
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
-
 <a href="mailto:info@ndering.ru">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=info@ndering.ru&color=whitesmoke&astyle=for-the-badge&logo=gmail" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=info@ndering.ru&color=whitesmoke&astyle=for-the-badge&logo=gmail" style="max-width: 100%;">
 </a>
-
-
 <a href="https://t.me/ndering">
   <img alt="Goto Telegram" src="https://img.shields.io/static/v1?label&message=@ndering&color=0A66C2&style=for-the-badge&logo=telegram" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=@ndering&color=0A66C2&style=for-the-badge&logo=telegram" style="max-width: 100%;">
-   
 </a> 
-
 <a href="https://linkedin.com/in/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" style="max-width: 100%;">
 </a>
-
+<br>
