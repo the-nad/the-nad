@@ -44,7 +44,7 @@
    
 </a> 
 
-<a href="https://linkedin.com/in/" rel="nofollow">
+<a href="https://linkedin.com/in/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" style="max-width: 100%;">
 </a>
 
