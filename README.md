@@ -35,7 +35,7 @@
 <h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
 
 <a href="mailto:info@ndering.ru">
-    <img alt="link to send me an email" src="https://camo.githubusercontent.com/73d4131540ffae519217d1f53b78548d14a324f872976b7cc66ea003422ff650/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d6361726f6c34322e68656c6f40676d61696c2e636f6d26636f6c6f723d7768697465736d6f6b65267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=info@ndering.ru&color=whitesmoke&astyle=for-the-badge&logo=gmail" style="max-width: 100%;">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=info@ndering.ru&color=whitesmoke&astyle=for-the-badge&logo=gmail" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=info@ndering.ru&color=whitesmoke&astyle=for-the-badge&logo=gmail" style="max-width: 100%;">
 </a>
 
 
