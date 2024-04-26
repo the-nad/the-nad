@@ -1,6 +1,6 @@
 
 <!--👋-->  <!--img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px"-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=Hello+%2c+folks+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=Hello%2c+folks+!)](https://git.io/typing-svg)
 
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=19&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
@@ -37,7 +37,7 @@
 <a href="https://t.me/ndering">
   <img alt="Goto Telegram" src="https://img.shields.io/static/v1?label&message=@ndering&color=0A66C2&style=for-the-badge&logo=telegram" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=@ndering&color=0A66C2&style=for-the-badge&logo=telegram" style="max-width: 100%;">
 </a> 
-<a href="https://linkedin.com/in/">
+<!--<a href="https://linkedin.com/in/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" data-canonical-src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" style="max-width: 100%;">
-</a>
+</a>-->
 <br>
